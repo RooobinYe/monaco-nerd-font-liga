@@ -24,11 +24,15 @@ The name of the font in the font selection menu is `Liga Monaco` and `LigeMonaco
 ## Screenshots
 Some Ligatures:
 
-![image](assets/image.png)
+![image](assets/image1-dark.png)
+![image](assets/image1-white.png)
 
 All Ligatures:
 
-The complete list of ligatures supported by this font can be found in the [test.md](assets/test.md) file. Alternatively, you can view the PDF version of the test file [here](assets/test.pdf).
+![image](assets/image2-dark.png)
+![image](assets/image2-white.png)
+
+The complete list of ligatures supported by this font can be found in the [test.md](assets/test.md) file.
 
 ## Related Projects and Acknowledgements
 - [monaco-nerd-font ](https://github.com/thep0y/monaco-nerd-font)
