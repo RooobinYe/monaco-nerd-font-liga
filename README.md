@@ -24,13 +24,13 @@ The name of the font in the font selection menu is `Liga Monaco` and `LigeMonaco
 ## Screenshots
 Some Ligatures:
 
-![image](assets/image1-dark.png)
-![image](assets/image1-white.png)
+![image](assets/image1-dark.png#gh-dark-mode-only)
+![image](assets/image1-white.png#gh-light-mode-only)
 
 All Ligatures:
 
-![image](assets/image2-dark.png)
-![image](assets/image2-white.png)
+![image](assets/image2-dark.png#gh-dark-mode-only)
+![image](assets/image2-white.png#gh-light-mode-only)
 
 The complete list of ligatures supported by this font can be found in the [test.md](assets/test.md) file.
 
