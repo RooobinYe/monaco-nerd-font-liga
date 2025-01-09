@@ -12,10 +12,6 @@ This version is a customized release based on the original Monaco Nerd Font. The
 ## Usage
 ```shell
 git clone https://github.com/RooobinYe/Monaco-Nerd-Font-Liga.git
-
-## Usage
-```shell
-git clone https://github.com/RooobinYe/Monaco-Nerd-Font-Liga.git
 ```
 Download the appropriate font file and install it on your system. You can use it in any terminal or code editor that supports custom fonts.
 
