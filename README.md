@@ -20,18 +20,22 @@ The name of the font in the font selection menu is `Liga Monaco` and `LigeMonaco
 ## Screenshots
 
 ### Font Styles (Bold & Italic):
-<figure style="text-align: center">
-  <img src="assets/image1-dark.png#gh-dark-mode-only" alt="Font Styles Dark Mode" style="margin: 0 auto">
-  <img src="assets/image1-white.png#gh-light-mode-only" alt="Font Styles Light Mode" style="margin: 0 auto">
-  <figcaption>Font Style Examples</figcaption>
-</figure>
+<div align="center">
+  <figure>
+    <img src="assets/image1-dark.png#gh-dark-mode-only" alt="Font Styles Dark Mode">
+    <img src="assets/image1-white.png#gh-light-mode-only" alt="Font Styles Light Mode">
+    <figcaption>Font Style Examples</figcaption>
+  </figure>
+</div>
 
 ### All Available Ligatures:
-<figure style="text-align: center">
-  <img src="assets/image2-dark.png#gh-dark-mode-only" alt="All Ligatures Dark Mode" style="margin: 0 auto">
-  <img src="assets/image2-white.png#gh-light-mode-only" alt="All Ligatures Light Mode" style="margin: 0 auto">
-  <figcaption>All Ligatures</figcaption>
-</figure>
+<div align="center">
+  <figure>
+    <img src="assets/image2-dark.png#gh-dark-mode-only" alt="All Ligatures Dark Mode">
+    <img src="assets/image2-white.png#gh-light-mode-only" alt="All Ligatures Light Mode">
+    <figcaption>All Ligatures</figcaption>
+  </figure>
+</div>
 
 The complete list of ligatures supported by this font can be found in the [test.md](assets/test.md) file.
 
