@@ -18,15 +18,20 @@ Download the appropriate font file and install it on your system. You can use it
 The name of the font in the font selection menu is `Liga Monaco` and `LigeMonaco Nerd Font`.
 
 ## Screenshots
-Some Ligatures:
 
-![image](assets/image1-dark.png#gh-dark-mode-only)
-![image](assets/image1-white.png#gh-light-mode-only)
+### Font Styles (Bold & Italic):
+<figure style="text-align: center">
+  <img src="assets/image1-dark.png#gh-dark-mode-only" alt="Font Styles Dark Mode" style="margin: 0 auto">
+  <img src="assets/image1-white.png#gh-light-mode-only" alt="Font Styles Light Mode" style="margin: 0 auto">
+  <figcaption>Font Style Examples</figcaption>
+</figure>
 
-All Ligatures:
-
-![image](assets/image2-dark.png#gh-dark-mode-only)
-![image](assets/image2-white.png#gh-light-mode-only)
+### All Available Ligatures:
+<figure style="text-align: center">
+  <img src="assets/image2-dark.png#gh-dark-mode-only" alt="All Ligatures Dark Mode" style="margin: 0 auto">
+  <img src="assets/image2-white.png#gh-light-mode-only" alt="All Ligatures Light Mode" style="margin: 0 auto">
+  <figcaption>All Ligatures</figcaption>
+</figure>
 
 The complete list of ligatures supported by this font can be found in the [test.md](assets/test.md) file.
 
