@@ -11,8 +11,16 @@ This version is a customized release based on the original Monaco Nerd Font. The
 
 ## Usage
 ```shell
+# Option 1: Clone the repository
 git clone https://github.com/RooobinYe/Monaco-Nerd-Font-Liga.git
 ```
+
+# Option 2: For Arch Linux users
+```shell
+yay -Syu
+yay -S ligamonaco-nerd-font-git
+```
+
 Download the appropriate font file and install it on your system. You can use it in any terminal or code editor that supports custom fonts.
 
 The name of the font in the font selection menu is `Liga Monaco` and `LigeMonaco Nerd Font`.
