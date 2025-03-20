@@ -15,8 +15,8 @@ This version is a customized release based on the original Monaco Nerd Font. The
 git clone https://github.com/RooobinYe/Monaco-Nerd-Font-Liga.git
 ```
 
-### Option 2: For Arch Linux users
 ```shell
+# Option 2: For Arch Linux users
 yay -Syu
 yay -S ligamonaco-nerd-font-git
 ```
