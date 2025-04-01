@@ -23,7 +23,7 @@ yay -S ligamonaco-nerd-font-git
 
 Download the appropriate font file and install it on your system. You can use it in any terminal or code editor that supports custom fonts.
 
-The name of the font in the font selection menu is `Liga Monaco` and `LigeMonaco Nerd Font`.
+The name of the font in the font selection menu is `Liga Monaco` and `LigaMonaco Nerd Font`.
 
 ## Screenshots
 
